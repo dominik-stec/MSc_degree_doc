@@ -28,7 +28,7 @@
     <img src="images/logo_waw.png" alt="Logo" width="540" height="100">
   </a>
 
-  <h2 align="center">Master of Science (MSc) degree project</h2>
+  <h2 align="center">Master of Science (MSc) degree project documentation</h2>
 
   <p align="center">
     <h4> A Generic Plugin for Automating the Implementation of Design Patterns in Integrated Development Environments for Polish-Japanese Academy of Information Technology </h4>
@@ -79,7 +79,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/MSc_degree.git`
+`https://github.com/dominik-stec/MSc_degree_doc.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
